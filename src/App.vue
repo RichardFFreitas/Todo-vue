@@ -1,6 +1,6 @@
 <script setup>
 import { reactive } from 'vue';
-import Cabecalho from './components/cabecalho.vue'
+import Cabecalho from './components/Cabecalho.vue'
 import Formulario from './components/Formulario.vue'
 import ListaDeTarefas from './components/ListaDeTarefas.vue'
 
