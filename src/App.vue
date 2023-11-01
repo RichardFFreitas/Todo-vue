@@ -8,22 +8,6 @@ const estado = reactive({
   filtro: 'todas',
   tarefaTemp: '',
   tarefas: [
-    {
-      titulo: 'Estudar SASS',
-      finalizada: false,
-    },
-    {
-      titulo: 'Terminar Baldurs Gate 3',
-      finalizada: false,
-    },
-    {
-      titulo: 'Ir a academia',
-      finalizada: true,
-    },
-    {
-      titulo: 'Estudar Python',
-      finalizada: false,
-    },
   ]
 })  
 
